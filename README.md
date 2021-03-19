@@ -4,7 +4,7 @@
 
 **Projects**
 
-- <a href="charadex.com">Charadex</a>
+- <a href="https://charadex.com">Charadex</a>
 - <a href="https://cheeriko.github.io/playhouse/">Playhou.se</a>
-- <a href="cheeriko.github.io/softserve/">Softserve</a> (WIP)
+- <a href="https://cheeriko.github.io/softserve/">Softserve</a> (WIP)
 - <a href="">Charadex</a>
